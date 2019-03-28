@@ -1,0 +1,4 @@
+1553614089712	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HQzCJs4nc9yG"
+1553614092495	Marionette	INFO	Listening on port 41527
+1553614092531	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4366, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
